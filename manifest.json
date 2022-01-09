@@ -1,0 +1,21 @@
+{
+    "name":"PWA",
+    "short_name":"pwa",
+    "start_url": "index.html",
+    "portée" : "./",
+    "display": "standalone",
+    "theme_color":"#fcfc35",
+    "background_color":"#0b2f77",
+    "icons":[{
+        "src":"assets/img/android-chrome-192x192.png",
+        "sizes":"192x192",
+        "type":"image/png",
+        "purpose": "any maskable"
+        },
+        {
+            "src":"assets/img/android-chrome-512x512.png",
+            "sizes":"512x512",
+            "type":"image/png",
+            "purpose": "any maskable"
+        }]
+}
